@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CorporateDashboard/static/css/main.b820ca98.css",
+    "main.js": "/CorporateDashboard/static/js/main.65ffe124.js",
+    "index.html": "/CorporateDashboard/index.html",
+    "main.b820ca98.css.map": "/CorporateDashboard/static/css/main.b820ca98.css.map",
+    "main.65ffe124.js.map": "/CorporateDashboard/static/js/main.65ffe124.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b820ca98.css",
+    "static/js/main.65ffe124.js"
+  ]
+}
